@@ -1,8 +1,11 @@
 # 1st
-hello world
-hii i am second year student working on new things hope we go long way
-I will be working on few steps ahead:-
--- cpp developer
--- development in mern
--- iot learning
+Hi! I'm Harsh, a second-year student passionate about development & problem-solving.
+## 🚀 My Learning Roadmap
+- 🔥 C++ Development (Mastering DSA & Competitive Programming)
+- 🌐 MERN Stack (Building Full-Stack Web Apps)
+- 🤖 IoT & Embedded Systems (Exploring Smart Tech)
 
+## 🔨 Current Projects
+- Building a Tic-Tac-Toe game in C++
+- Solving 800-1400 rated Codeforces problems
+- Learning React & Node.js for web development
